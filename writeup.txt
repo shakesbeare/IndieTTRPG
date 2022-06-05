@@ -1,0 +1,125 @@
+Design Philosophy
+    Reduce complexity where possible – all rules should be explainable in a few, simple sentences.
+    Where complexity must remain or increase, it should do so in an intuitive way which is easily understandable or lines up well with how the real world works.
+    Every level-up should have a meaningful, impactful choice.
+    Every player turn in combat should have a meaningful, impactful choice.
+    Player fun is more important than game balance, except where the lack of balance interferes with player fun.
+
+
+
+Abilities
+
+Strength - Whether through extensive training or good genetics, you are a hulking mass able to power through even the most physically demanding tasks. You may find yourself employed in a lumber yard to replace the lumber carts or maybe you simply wish to wield a large weapon and hit your foes very, very hard. 
+
+Constitution - You are more resilient to harm than your compatriots. Perhaps you eat gruesome food and have an iron stomach or maybe you simply have taken many more beatings in our life than the average joe and are ready to take more.
+
+Dexterity - You have fine control over delicate procedures through careful practice across many years. Whether this be in the art of sculpting or thievery or archery, your fast, accurate fingers are not to be trifled with.
+
+Agility - You have honed your ability to move quickly and lightly, dancing around the world as if a leaf on the wind. Enemies may struggle to hit you on the battlefield or onlookers may stand in awe of your feats of acrobatics. 
+
+Intelligence - You have trained your mind to enhance your memory and thinking skills allowing you to learn and recall more spells and solve mysteries about the universe. 
+
+Attunement - You have discovered the secrets of the arcane world allowing you to engage with more powerful magics as well as access those magics more frequently than your peers. 
+
+Charisma - You have learned how to navigate social situations in order to get what you want, every time. This will prove a useful skill in day to day interactions with other common folk as well as when trying to dominate someone’s mind. 
+
+Willpower - You have a strong mind and have learned to resist the influence of others -- standing your ground against even the most sly of foes and in even the most impossible situations.
+
+
+Abilities are represented by a score which is converted into a modifier for use in play. 10 is the average while every point above 10 represents the ability to perform slightly better than average, resulting in a slightly higher modifier. Scores lower than 10 result in negative modifiers as your character performs slightly worse than average.
+
+
+
+
+Table A: Ability Scores and Modifiers
+1, -9
+2, -8
+3, -7
+4, -6
+5, -5
+6, -4
+7, -3
+8, -2
+9, -1
+10, +0
+11, +1
+12, +2
+13, +3
+14, +4
+15, +5
+16, +6
+17, +7
+18, +8
+19, +9
+20, +10
+
+
+
+
+
+
+
+
+More extreme ability scores
+
+Ability scores which are farther below or above 10 are allowed at the GM’s discretion and should change the modifier benefit or penalty according to the same pattern. Scores in these ranges equate to either legendary, godlike adventurers or pathetic, barely living beasts. 
+
+Certain abilities may make more sense to allow for more extremes. For example, it may not make sense to make an adventurer with an intelligence of 0 as a certain degree of intelligence is needed simply to be an adventurer. However, an adventurer with a strength of -2 might represent someone who has sorely underdeveloped their strength skills in order to benefit other stats. This adventurer would have a pitiful (-12) to all dice roles involving strength, but may have incredible intelligence and attunement allowing them to cast spells of great power. 
+
+Determining your ability scores
+
+Level 1 adventurers represent absolute beginners and are thus quite unremarkable. Typically, their ability scores will be only slightly modified from their background. At your GM’s discretion, you may sacrifice points in certain abilities to bolster others with each level costing its modifier in points. In order to gain one 16 by this method, you would need to move 6 skills to 9 or 1 skill to 4 (or some other combination). 
+
+
+
+
+Skills
+
+Skills represent actual actions you might take during an adventure. While abilities are measures of your prowess in various fields, skills represent time spent training more specific actions. Skills are combinations which can utilize multiple different abilities in order to create a more complex effect or action. In practice, this means you may choose to use either ability modifier for your roll during a skill check, with some exceptions. Each combination skill is governed by a primary ability and a secondary ability. If your primary ability is greater than 10, you can choose to use either modifier when rolling the check. If your primary ability is less than 10, you must use both modifiers when rolling the check. 
+
+(I just used the D&D skills for now as proof of concept)
+Table B: Skills and Governing Abilities
+
+Skill - Primary Ability - Secondary Ability
+Acrobatics - Dexterity - Agility
+Animal Handling - Intelligence - Charisma
+Arcana - Attunement - Intelligence
+Athletics - Strength - Constitution
+Deception - Charisma - Intelligence
+History - Intelligence - Attunement
+Insight - Willpower - Charisma
+Intimidation - Charisma - Strength
+Investigation - Intelligence - Dexterity
+Medicine - Intelligence - Attunement
+Nature - Intelligence - Attunement
+Perception - Intelligence - Attunement
+Performance - Charisma - Willpower
+Persuasion - Charisma - Intelligence
+Religion - Intelligence - Attunement
+Sleight of Hand - Dexterity - Charisma
+Stealth - Dexterity - Agility
+Survival - Intelligence - Dexterity
+
+
+
+Using Skills and Abilities
+	
+	Dice rolls are used to represent the risk of failure in a given action. Whenever a creature attempts to do something that has any likelihood of failing, a dice roll is used. The GM should set a DC (difficulty class) based on the difficulty of the action the creature is attempting to perform and the creature will then roll a d20 and allow the GM to compare the result to the DC. Depending on the situation, a creature may receive bonuses to these rolls. If the action is benefited by strength, a creature might add their strength modifier to the result of the roll. More complex actions are governed by skills. 
+	Upon rolling a 20, the roll is considered a critical success. Critical successes are moments of flow and great concentration which have superior results. For great actions, the gods may even intervene and provide an adventurer with a bout of great power. Generally, critical successes result in an even greater effect than was expected, like increased damage in an attack or deceiving someone so thoroughly that they have no further suspicions of you. 
+	Conversely, rolling a 1 on the d20 is considered a critical failure. Critical failures are the opposite of critical successes and represent a creature fumbling so majestically that all manner of things go wrong. In extreme cases, the gods may again intervene to play tricks on adventurers who fail so greatly. 
+
+Combat
+
+Combat Procedure
+
+	Upon entering combat, all involved creatures roll initiative and play proceeds in a turn-based fashion. Initiative represents how fast a creature acts and reacts in combat and is governed by the agility ability. A critical success on initiative results in the creature being placed at the top of initiative order and a critical failure results in being placed at the bottom. If two creatures tie, their agility modifiers should be compared and the higher result goes first. If there is still a tie, both creatures should reroll until there is no tie and that result determines the order which those creatures take their turns. 
+	
+
+Making an Attack
+
+	In contrast to other systems, attacks have a very high likelihood of succeeding. If you are proficient in the use of a weapon, attacks with that weapon need only meet a DC 11 ability check in order for the attack to hit. 
+	In combat, a creature’s armor class is subtracted from all damage dealt to them before it is applied to their health. For example, if Lothric has an AC of 5 and he is hit with a 15 damage attack, Lothric only takes 10 damage. A creature can also attempt to dodge an attack swung at them to nullify all damage they take, assuming they succeed in an agility saving throw which is compared to the attacker’s attack roll. If the attacker rolls a critical success, you take half damage on a successful dodge unless you also critically succeed. Generally, wearing armor decreases your ability to succeed in agility saving throws related to dodging attacks. 
+
+
+
+
