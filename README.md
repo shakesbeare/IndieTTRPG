@@ -1,11 +1,11 @@
-# Design Philosophy
-- Reduce complexity where possible – all rules should be explainable in a 
-    few, simple sentences.
-- Where complexity must remain or increase, it should do so in an intuitive 
+# Design Philosophy 
+- Reduce complexity where possible – all rules should be
+    explainable in a few, simple sentences.
+ - Where complexity must remain or increase, it should do so in an intuitive 
     way which is easily understandable or lines up well with how the real 
-    world works.
-- Every level-up should have a meaningful, impactful choice.
-- Every player turn in combat should have a meaningful, impactful choice.
+    world works. 
+- Every level-up should have a meaningful, impactful choice. 
+- Every player turn in combat should have a meaningful, impactful choice. 
 - Player fun is more important than game balance, except where the lack of 
     balance interferes with player fun.
 
@@ -35,7 +35,7 @@ score in the middle of it all.
 In this system, skills are improved by skill points. Each skill point placed
 into a skill represents an additional `+1` bonus to performing associated actions.
 The number of skill points you receive per level is based on your class and other
-skills.   
+skills. Your starting skill points are also determined by your chosen class.
 
 # Combat
 
@@ -50,6 +50,11 @@ tie, their agility modifiers should be compared and the higher result goes
 first. If there is still a tie, both creatures should reroll until there is no
 tie and that result determines the order which those creatures take their
 turns.
+
+Each creature involved in the combat gets three `actions` to take their part in
+the battle. They are also allowed a single `reaction` to use during another
+creature's turn, provided the trigger is fulfilled. `Saving Throws` are not
+considered reactions. 
 
 ## Making an Attack
 
@@ -67,6 +72,26 @@ success, you take half damage on a successful dodge unless you also critically
 succeed. Generally, wearing armor decreases your ability to succeed in `agility
 saving throws` related to dodging attacks.
 
+## Casting Spells
 
+In this system, spells are cast using mana. At the beginning of each turn, a
+player roles to determine the number of mana points they are able to spend for
+that round. For most spellcasters, this starts as `1d4` mana points. Depending
+on your class, feats, and skills, you might be able to gain more mana than
+that. You may spend as many mana points as you have available to cast whatever
+spells you have at your disposal. However, some spells might require more mana
+than you could possibly generate in a turn.
 
+For these spells, you can take the `Conserve Mana` action to instantly end your
+turn. When you `Conserve Mana`, any mana point remaining unspent will be
+available to you at the beginning of your next turn. Be warned, this action is
+visible to enemies and requires a great deal of concentration. DM's may opt to
+have more intelligent creatures deliberately target mages who are `Conserving
+Mana` in order to weaken your party.
 
+### Differences from other Systems
+
+The idea of spell slots has been done away with. You can learn any spell at any time, but
+know that you may not be able to generate the mana in time to cast it reasonably, yet. 
+There is also no longer a distinction made between spells and cantrips. You may consider
+a cantrip a spell which you simply always generate enough mana to cast each turn.
