@@ -37,9 +37,19 @@ into a skill represents an additional `+1` bonus to performing associated action
 The number of skill points you receive per level is based on your class and other
 skills. Your starting skill points are also determined by your chosen class.
 
-# Combat
+# Playing the Game
 
-## Combat Procedure
+## Using Skills
+When a skill check is performed, roll `1d20` and add the modifier of the associated
+skill check. Skill checks which are at least `10` points higher than the `DC` are
+considered one degree of success better. Checks which are at least `10` points lower,
+conversely, are considered to be one degree of success worse. Some skill checks do not
+have degrees of success, in which case there is no benefit for rolling superbly high
+or low. 
+
+## Combat
+
+### Combat Procedure
 
 Upon entering combat, all involved creatures roll initiative and play proceeds
 in a turn-based fashion. Initiative represents how fast a creature acts and
@@ -56,11 +66,29 @@ the battle. They are also allowed a single `reaction` to use during another
 creature's turn, provided the trigger is fulfilled. `Saving Throws` are not
 considered reactions. 
 
-## Making an Attack
+### Making an Attack
 
 In contrast to other systems, attacks have a very high likelihood of
-succeeding. If you are proficient in the use of a weapon, attacks with that
-weapon need only meet a `DC11` ability check in order for the attack to hit. 
+succeeding. All attacks will automatically be considered to hit. When making an
+attack. Your attack may `critically succeed` or `critically fail`. These values
+change based on your equipment and skills. Ensure that you calculate your
+`critical chances` before entering combat so it does not bog down the flow of
+play.
+
+If your `critical chances` are extremely high or low, you may have the 
+opportunity to double crit, or more. These rare strikes are extremely powerful
+and offer twice the bonus (or twice the penalty) of a normal crit. 
+
+#### Using crit chance
+
+To determine whether a strike is a critical, roll `1d100`. Subtract your `critical 
+hit chance` from 100 to determine the minimum possible roll to critcally hit. Your
+`critical failure chance` is simply the maximum possible roll you must obtain to *not*
+`critically fail`. If your `critical hit chance` and `critical fumble chance` are too
+large to fit into a single roll of the die, you may need to roll twice. A GM might 
+rule that your `critical failure chance` is nullified in this case to speed up combat.
+
+#### Defensive Capabilities
  
 In combat, a creature’s armor class is subtracted from all damage dealt to
 them before it is applied to their health. For example, if Lothric has an AC
@@ -72,7 +100,7 @@ success, you take half damage on a successful dodge unless you also critically
 succeed. Generally, wearing armor decreases your ability to succeed in `agility
 saving throws` related to dodging attacks.
 
-## Casting Spells
+### Casting Spells
 
 In this system, spells are cast using mana. At the beginning of each turn, a
 player roles to determine the number of mana points they are able to spend for
@@ -89,7 +117,7 @@ visible to enemies and requires a great deal of concentration. DM's may opt to
 have more intelligent creatures deliberately target mages who are `Conserving
 Mana` in order to weaken your party.
 
-### Differences from other Systems
+#### Differences from other Systems
 
 The idea of spell slots has been done away with. You can learn any spell at any time, but
 know that you may not be able to generate the mana in time to cast it reasonably, yet. 
