@@ -25,7 +25,7 @@ experience in real life. We do not imagine that our strength can only increase
 so much through extensive training, for example. There are many degrees of
 success in these traits and the system in place in current popular system
 fails to create an effective abstraction of real life. In this system, your
-ability to perform a skill is directly associated with that skill. Athletics,
+ability to perform a skill is directly associated with that skill. `Athletics`,
 for example, is a perfectly fine abstraction of all activities of running,
 lifting, climbing, etc, without needing the intermediary of the `Strength`
 score in the middle of it all.
