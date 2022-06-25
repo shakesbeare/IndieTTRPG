@@ -88,7 +88,7 @@ hit chance` from 100 to determine the minimum possible roll to critcally hit. Yo
 large to fit into a single roll of the die, you may need to roll twice. A GM might 
 rule that your `critical failure chance` is nullified in this case to speed up combat.
 
-#### Defensive Capabilities
+### Defensive Capabilities
  
 In combat, a creature’s armor class is subtracted from all damage dealt to
 them before it is applied to their health. For example, if Lothric has an AC
