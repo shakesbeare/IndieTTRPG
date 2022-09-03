@@ -29,7 +29,7 @@ We believe that the current state of tabletop rpgs is held back by their history
 # Introduction to Core Concepts and Differences
 The following are brief introductions to the core concepts of this system. Most of these descriptions are dumbed down versions of what you would find in the dedicated pages for each of these concepts and are intended to give a player experienced with tabletop rpg's an overview of how the system works and is unique. Below are a few major changes which introduce the experienced rpg player to this system. 
 
-- [Ability scores have been removed](https://github.com/shakesbeare/IndieTTRPG/blob/main/README_Obsidian.md#skills)
+- [Ability scores have been removed](https://github.com/shakesbeare/IndieTTRPG/blob/main/README_Obsidian.md#ability-scores)
 - [Saving throws have been replaced by rolls of reaction](https://github.com/shakesbeare/IndieTTRPG/blob/main/Playing%20the%20Game/Reaction%20Checks.md)
 - [Attacks now automatically hit](https://github.com/shakesbeare/IndieTTRPG/blob/main/Playing%20the%20Game/Making%20an%20Attack.md)
 - [Spellcasting has been overhauled and Vancian spellcasting has been removed](https://github.com/shakesbeare/IndieTTRPG/blob/main/Playing%20the%20Game/Casting%20Spells.md)
