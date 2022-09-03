@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Plugins.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -90,6 +90,7 @@
   "active": "40b3c3b801c96320",
   "lastOpenFiles": [
     "README.md",
+    "Plugins.md",
     "Playing the Game/Skills.md",
     "Playing the Game/Reaction Checks.md",
     "Classes/Barbarian.md",
@@ -97,7 +98,6 @@
     "Classes/Fighter.md",
     "Classes/Sorcerer.md",
     "README_Obsidian.md",
-    "Playing the Game/Mastery Skills.md",
-    "Playing the Game/Making an Attack.md"
+    "Playing the Game/Mastery Skills.md"
   ]
 }
