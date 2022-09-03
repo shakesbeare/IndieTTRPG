@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Spell List.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Spell List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "40b3c3b801c96320",
   "lastOpenFiles": [
-    "Spell List.md",
     "README.md",
+    "Spell List.md",
     "Classes/Sorcerer.md",
     "Spells/Cure Wounds.md",
     "Spells/Bless.md",
