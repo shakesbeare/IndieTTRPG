@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes/Sorcerer.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Sorcerer.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +90,14 @@
   "active": "40b3c3b801c96320",
   "lastOpenFiles": [
     "Spell List.md",
+    "README.md",
     "Classes/Sorcerer.md",
+    "Spells/Cure Wounds.md",
+    "Spells/Bless.md",
     "Classes/Barbarian.md",
     "Classes/Fighter.md",
     "Classes/Cleric.md",
     "Spells/Divine Judgement.md",
-    "Spells/Cure Wounds.md",
-    "Spells/Bless.md",
-    "Spells/Turn Undead.md",
-    "Spells/Purify.md"
+    "Spells/Turn Undead.md"
   ]
 }
