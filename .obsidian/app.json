@@ -1,4 +1,10 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "vimMode": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": true
 }

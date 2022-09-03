@@ -7,8 +7,12 @@
         "id": "40b3c3b801c96320",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Classes/Sorcerer.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Classes/Sorcerer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,16 @@
     "collapsed": true
   },
   "active": "40b3c3b801c96320",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Spell List.md",
+    "Classes/Sorcerer.md",
+    "Classes/Barbarian.md",
+    "Classes/Fighter.md",
+    "Classes/Cleric.md",
+    "Spells/Divine Judgement.md",
+    "Spells/Cure Wounds.md",
+    "Spells/Bless.md",
+    "Spells/Turn Undead.md",
+    "Spells/Purify.md"
+  ]
 }
