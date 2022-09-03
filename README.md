@@ -1,5 +1,10 @@
 # Using this document
-This document is designed to be viewed using [Obsidian](https://obsidian.md) as a vault and some elements may not work or look as intended without using it. This README is designed in standard markdown, but you can find a more advanced front page which utilizes Obsidian features in `README_Obsidian`.
+This document is designed to be viewed using [Obsidian](https://obsidian.md) as a vault and some elements may not work or look as intended without using it. This README is designed in standard markdown, but you can find a more advanced front page which utilizes Obsidian features in `README_Obsidian`. Note that this page will likely be updated less frequently and may contain outdated information. 
+
+If you are new to Github, you can browse through the various sections above (you may need to click `Browse code`). 
+
+### Using Obsidian
+On a computer, you can click the green `Code` button and then click `Download as ZIP` to download the entire repository. You can then extract it and open the folder as an Obsidian vault. 
 
 # Design Philosophy 
 - Reduce complexity where possible – all rules should be
