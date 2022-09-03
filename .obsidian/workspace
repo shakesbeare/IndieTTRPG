@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
+            "file": "Plugins.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "40b3c3b801c96320",
   "lastOpenFiles": [
+    "README.md",
     "Playing the Game/Skills.md",
     "Playing the Game/Reaction Checks.md",
-    "README.md",
     "Classes/Barbarian.md",
     "Classes/Cleric.md",
     "Classes/Fighter.md",
