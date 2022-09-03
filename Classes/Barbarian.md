@@ -1,7 +1,7 @@
 # Barbarian
 ## Stats
-- **HP:** `1d6 + 12` 
-- **Hit Dice:** `1d12`
+- **HP:** 1d6 + 12
+- **Hit Dice:** 1d12
  ## Skills
 - Gain 2 skill ranks in Athletics
 - Gain 2 skill ranks in Intimidation
@@ -21,11 +21,11 @@
 
 # The Berserker
 ## Class Features
-### Brutal Onslaught
-- Entering a rage-induced trance, you must attack the nearest enemy with all of your actions for 3 turns
-- You automatically follow an enemy if they try to move away from you
-- You cannot be slowed during this time
-- You cannot be reduced below 1 hp during this time
+- ### Level 5 - Berserker Rage
+	- Entering a rage-induced trance, you must attack the nearest enemy with all of your actions for 3 turns
+	- You automatically follow an enemy if they try to move away from you
+	- You cannot be slowed during this time
+	- You cannot be reduced below 1 hp during this time
 ## Mastery Skills
 ### Frenzied Attack
 - You may make an additional attack per turn 

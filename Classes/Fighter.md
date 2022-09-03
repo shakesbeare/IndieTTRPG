@@ -2,7 +2,8 @@
 ## Description
 The fighter is an archetype focused on intense training to truly master their craft. Not unlike the wizard, the fighter studies for many years to arrive where they are. With many choices at their disposal, the figher is truly a versatile and dangerous combatant.
 ## Stats
-- **HP:** `1d6+8`
+- **HP:** 1d6+8
+- **Hit Dice:** 1d8
 ## Class Features
 ## Mastery Skills (6 per level)
 ### Constitution
@@ -23,12 +24,17 @@ The fighter is an archetype focused on intense training to truly master their cr
 <hr>
 
 # The Archer
+## Class Features
+- ### Sonic Arrow
+	- During your daily preparations, you may choose to craft a number of sonic arrows.
+	- Enemies within 15-feet of the landing area of the arrow must make a DC 12 will save. On a failure, they become distract and investigate the area where the arrow landed. The arrow dissolves and is lost before the enemy arrives. 
+ 
 ## Mastery Skills
 ### Precise Shots
 - Your attacks gain increased range and critical chance
 	- +5ft and +1% per level of mastery
-### Trick Arrow
+### Trick Arrows
 - Your trick arrows are upgraded as specified in their description
 
 # The Knight
-## Mastery Skill
+## Mastery Skills

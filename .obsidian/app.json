@@ -6,5 +6,6 @@
   "strictLineBreaks": true,
   "foldHeading": false,
   "foldIndent": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }

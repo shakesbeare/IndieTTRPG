@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spell List.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spell List.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "40b3c3b801c96320",
   "lastOpenFiles": [
-    "README.md",
     "Spell List.md",
-    "Classes/Sorcerer.md",
-    "Spells/Cure Wounds.md",
-    "Spells/Bless.md",
-    "Classes/Barbarian.md",
+    "Playing the Game/Dodging.md",
+    "README.md",
+    "Playing the Game/Making an Attack.md",
+    "Playing the Game/Initiative.md",
+    "Playing the Game/Skills.md",
+    "Playing the Game/Mastery Skills.md",
+    "Plugins.md",
     "Classes/Fighter.md",
-    "Classes/Cleric.md",
-    "Spells/Divine Judgement.md",
-    "Spells/Turn Undead.md"
+    "Classes/Sorcerer.md"
   ]
 }

@@ -1,7 +1,7 @@
 # Sorcerer
 ## Stats
-- **HP:** `1d6+6`
-- **Hit Dice:** `1d6`
+- **HP:** 1d6+6
+- **Hit Dice:** 1d6
 ## Class Features
 ### Metamagic
 - You have a pool of sorcery points equal to 2

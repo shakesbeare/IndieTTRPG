@@ -1,4 +1,7 @@
 # Cleric
+## Stats
+- **HP:** 1d6+8
+- **Hit Dice:** 1d8
 ## Class Features
 ### Channel Divinity
 - You gain the ability to conjure certain magical effects fueled by your devotion to your deity. 
@@ -26,3 +29,8 @@
 ### Divine Judgement
 - Grants and jupgrades the channel divinity effect 'Divine Judgement'
 	- +1 damage per level of mastery
+
+# The Paladin
+## Stats
+- You gain an additional 2 HP per level
+- Your hit dice is increased to 1d10
