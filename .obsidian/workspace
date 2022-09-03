@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Playing the Game/Casting Spells.md",
+            "file": "Playing the Game/Skills.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playing the Game/Casting Spells.md",
+                "file": "Playing the Game/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "40b3c3b801c96320",
   "lastOpenFiles": [
-    "Playing the Game/Exhaustion.md",
-    "Playing the Game/Casting Spells.md",
-    "README_Obsidian.md",
-    "Spell List.md",
-    "README.md",
-    "Playing the Game/Dodging.md",
-    "Playing the Game/Making an Attack.md",
-    "Playing the Game/Initiative.md",
+    "Playing the Game/Reaction Checks.md",
     "Playing the Game/Skills.md",
-    "Playing the Game/Mastery Skills.md"
+    "README.md",
+    "Classes/Barbarian.md",
+    "Classes/Cleric.md",
+    "Classes/Fighter.md",
+    "Classes/Sorcerer.md",
+    "README_Obsidian.md",
+    "Playing the Game/Mastery Skills.md",
+    "Playing the Game/Making an Attack.md"
   ]
 }
