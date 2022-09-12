@@ -1,5 +1,7 @@
 [
   "obsidian-relative-line-numbers",
   "table-editor-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-linter",
+  "obsidian-vimrc-support"
 ]
